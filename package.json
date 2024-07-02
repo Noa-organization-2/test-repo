@@ -6,16 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/myrror-security/test1.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/myrror-security/test1/issues"
-  },
-  "homepage": "https://gitlab.com/myrror-security/test1#readme",
   "dependencies": {
     "get-func-name": "^2.0.0",
     "bson": "1.0.9",
