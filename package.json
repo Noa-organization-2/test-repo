@@ -1,13 +1,21 @@
 {
-  "name": "test1",
+  "name": "test-repo",
   "version": "4.0.0",
   "description": "test git lab integration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Noa-organization-2/test-repo.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noa-organization-2/test-repo/issues"
+  },
+  "homepage": "https://github.com/Noa-organization-2/test-repo/blob/test-package-json/README.md",
   "dependencies": {
     "get-func-name": "^2.0.0",
     "bson": "1.0.9",
